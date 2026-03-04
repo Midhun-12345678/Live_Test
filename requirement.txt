@@ -1,0 +1,13 @@
+groq
+uvicorn
+fastapi
+pypdf
+numpy
+chromadb
+sentence-transformers
+torch
+python-dotenv
+pydantic
+typing-extensions
+tqdm
+scikit-learn
